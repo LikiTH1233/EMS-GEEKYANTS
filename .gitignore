@@ -1,0 +1,9 @@
+﻿# Frontend
+frontend-new/node_modules/
+frontend-new/.env
+frontend-new/build/
+
+# Backend
+backend/node_modules/
+backend/.env
+backend/dist/
